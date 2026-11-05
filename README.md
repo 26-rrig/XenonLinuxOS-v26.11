@@ -1,4 +1,4 @@
-# === XenonOS-v26.11 ===
+# === XenonLinux-v26.11 ===
 The Official GitHub Repository For XenonLinux v26.11 Release 2. | Contact Support At rayanr.business1607@gmail.com.
 
 ## === Project Status ===
